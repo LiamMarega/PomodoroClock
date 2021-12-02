@@ -230,8 +230,8 @@ const Timer = () => {
               width="40"
               height="40"
             />
-          </a>
           NASHEEEEEEEEE
+          </a>
         </div>
       </div>
     );
