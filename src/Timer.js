@@ -223,7 +223,15 @@ const Timer = () => {
               height="40"
             />
           </a>
-          
+          <a target="_blank" href="mailto:liammarega85@gmail.com">
+            <img
+              src="http://cdn.onlinewebfonts.com/svg/img_237869.png"
+              alt="html5"
+              width="40"
+              height="40"
+            />
+          </a>
+       
         </div>
       </div>
     );
