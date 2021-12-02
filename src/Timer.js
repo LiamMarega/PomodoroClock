@@ -231,6 +231,7 @@ const Timer = () => {
               height="40"
             />
           </a>
+          NASHEEEEEEEEE
         </div>
       </div>
     );
